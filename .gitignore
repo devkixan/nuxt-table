@@ -92,7 +92,6 @@ out
 dist
 
 # Gatsby files
-.cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
@@ -102,7 +101,6 @@ dist
 
 # vuepress v2.x temp and cache directory
 .temp
-.cache
 
 # Docusaurus cache and generated files
 .docusaurus
@@ -120,7 +118,8 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
+.vscode-te
+st
 
 # yarn v2
 .yarn/cache
@@ -131,3 +130,6 @@ dist
 
 # Webstorm
 .idea
+
+# Mac
+demo
