@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-table",
+  "version": "1.0.0",
+  "description": "Nuxt Advanced Table",
+  "homepage": "https://github.com/devkixan/nuxt-table#readme",
+  "bugs": {
+    "url": "https://github.com/devkixan/nuxt-table/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devkixan/nuxt-table.git"
+  },
+  "license": "MIT",
+  "author": "devKixan",
+  "type": "module",
+  "main": "./dist/module.cjs",
+  "types": "./dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@nuxt/eslint-config": "^1.1.0"
+  }
+}
